@@ -2,19 +2,23 @@
 # Project-Planning
 My proeject is called "Space Floppy Bird", a recreation of the game Flappy Bird.
 
+## Overview
+My game will consist of the user playing as a character that is a spacehsip. As you fly around space, trying to survive against meteor blocks attempting to destroy the user upon encountering contact! Try to survive as long as possible!
 
-I will have to create a function that will create initially a grvaity system for the ship to action "fly."
+I will make a function that will create a grvaity system for the ship to have the action of "flying."
 Also create functions to randomize the blocks to be at different heights from the top of the screen 
 as well as the bottom.
 I will also create a jump function that will go hand in hand with the function i create for gravity.
 ## User-Stories
-As a user I need to find a background that fits my app
-As a user i need to also create or find a spaceship that will participate as our player
-As a user I will have to seek specific gravity difficulty
-As a player I want to implement a coin system where the player collects hese coins that determines their score
+As a user, I want the ability to...
+- click start
+- start game
+- begin game and collect as many tokens as possible
+- As the game ends it will tell me my score
+- at the end push restart and play again
 
 ## Wireframes
-![myImg](spacefloppyflopBs.png)
+![brainstormpic](https://user-images.githubusercontent.com/112364309/191062006-7a930610-e7ad-4ec2-89a7-6400d95e7eaa.jpg)
 
 ## ERD's
 spaceship: (located on the left side)
