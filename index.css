@@ -1,0 +1,58 @@
+body {
+    background: #000;
+    text-align: center;
+    font-family: 'bungee', cursive;
+}
+
+space {
+    border: 1px solid #777;
+    outline: 1px solid #333;
+    outline-offset: 5px;
+}
+
+#scheme{
+    margin: auto;
+    overflow: hidden;
+    width: 800px;
+    height: 800px;
+    border: 1px solid whitesmoke;
+}
+#gap {
+    position: relative;
+    background-color: black;
+    width: 75px;
+    height: 150px;
+    animation: block 2s infinite linear;
+    left:  800px;
+    top: -800px;
+}
+
+#meteor {
+    position: relative;
+    background-color: burlywood;
+    width: 75px;
+    height: 800px;
+    left: 800px;
+    animation: block 2s infinite linear;
+}
+@keyframes block {
+    0%{left: 800px;}
+    100%{left: -75px;}
+}
+
+#spaceship {
+    width: 40px;
+    height: 20px;
+    background: aquamarine;
+    top: 100px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+#ground {
+    background-color: gray;
+    width: 800px;
+    height: 65px;
+    position: absolute;
+    top: 744px;
+}

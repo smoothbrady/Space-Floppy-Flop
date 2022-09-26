@@ -1,6 +1,6 @@
 # Space-Floppy-Flop
 # Project-Planning
-My proeject is called "Space Floppy Bird", a recreation of the game Flappy Bird.
+My proeject is called "Space Floppy Flop", a recreation of the game Flappy Bird.
 
 ## Overview
 My game will consist of the user playing as a character that is a spacehsip. As you fly around space, trying to survive against meteor blocks attempting to destroy the user upon encountering contact! Try to survive as long as possible!
